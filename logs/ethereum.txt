@@ -257,3 +257,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0x709047115"}
 {"jsonrpc":"2.0","id":1,"result":"0x7486a7790"}
 {"jsonrpc":"2.0","id":1,"result":"0x6290387cd"}
+{"reason":"Value required for key at path 'latitude'. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
