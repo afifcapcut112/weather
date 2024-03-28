@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://api.open-meteo.com/v1/meteofrance?latitude=52.52&longitude=13.41&hourly=temperature_2m"
+RPC_URL="https://api.open-meteo.com/v1/metno?latitude=59.91&longitude=10.75&hourly=temperature_2m"
 
 OUTPUT_DIR="logs"
 
